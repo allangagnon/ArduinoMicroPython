@@ -1,2 +1,2 @@
 # ArduinoMicroPython
-Sample MicroPython application for an Arduino Uno R3
+Sample MicroPython application for an Arduino Nano 33 IoT
